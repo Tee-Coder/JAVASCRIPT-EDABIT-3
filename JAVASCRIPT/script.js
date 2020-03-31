@@ -1,5 +1,5 @@
-function concat(...args) {
-	return [].concat(...args);
+function concat(...arrys) {
+	return [].concat(...arrys);
 	
 }
 
